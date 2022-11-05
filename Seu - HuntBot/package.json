@@ -1,0 +1,14 @@
+{
+  "name": "seu",
+  "version": "0.0.1",
+  "description": "Seu Hunting Bot",
+  "main": "Seu.js",
+  "scripts": {
+    "start": "node Seu.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2",
+    "g": "^2.0.1",
+    "pkg": "^5.5.2"
+  }
+}
